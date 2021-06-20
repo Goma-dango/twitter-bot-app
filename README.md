@@ -11,6 +11,15 @@
 - Google Sheet API
 - Google Drive API
 
+### 使い方
+- [main.py](/main.py)
+- [dics.py](/dics.py)
+- [get_data.py](/get_data.py)
+- [tools.py](/tools.py) </br>
+の4つが動いてる。</br>
+
+各認証に必要なキーなどは.envファイルに入れている。ローカルで動かすだけなら、直接キーを打ち込んでもよい。
+
 ### 参考
 - [heroku + Python で Vtuber Twitter bot 作る](https://qiita.com/iroiro_bot/items/3406caf025e89b8f7a25 'heroku + Python で Vtuber Twitter bot 作る')
 - [HerokuアプリからGoogleスプレッドシートを操作する際、認証情報を環境変数から読み込みたい](https://qiita.com/a-r-i/items/bb8b8317840e3a87771a 'HerokuアプリからGoogleスプレッドシートを操作する際、認証情報を環境変数から読み込みたい')
